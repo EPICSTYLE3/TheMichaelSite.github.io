@@ -113,13 +113,13 @@ nav {
 }
 .nicebtn {
     display: inline-block;
-    margin-right: 1rem;
-    padding: 0.6rem 1.3rem;
+    margin-top: 1.5rem;
+    padding: 0.7rem 1.5rem;
     background: #112240;
     color: #F0F0F0;
     text-decoration: none;
-    font-weight: bold;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .btn.secondary {
