@@ -89,6 +89,17 @@ nav {
     border-radius: 5px;
     font-weight: bold;
 }
+.nicebtn {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.7rem 1.5rem;
+    background: #112240;
+    color: #F0F0F0;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
 
 /* Projects */
 .cards {
