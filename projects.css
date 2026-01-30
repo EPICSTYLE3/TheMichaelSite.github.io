@@ -121,6 +121,9 @@ nav {
     border-radius: 5px;
     font-weight: bold;
 }
+a {
+   text-decoration: none; 
+}
 
 .btn.secondary {
     background: #0a192f;
