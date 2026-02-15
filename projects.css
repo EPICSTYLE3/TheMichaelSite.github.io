@@ -99,6 +99,11 @@ nav {
     border-radius: 20px;
     margin: 0.4rem;
 }
+.centeredheader{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
 
 /* Buttons */
 .btn {
