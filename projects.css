@@ -80,7 +80,12 @@ nav {
 }
 
 .project-section h3 {
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem;
+    font-size: 1.5rem;
+    color: #0a192f;
+}
+.project-section h2 {
+    margin-bottom: 0.3rem;
     font-size: 1.5rem;
     color: #0a192f;
 }
